@@ -1,0 +1,22 @@
+Basically trying to learn how to deploy code.
+
+Going to use the tools present in Grail.
+
+Which is:
+1) AWS
+2) Terraform
+3) Bash + Python
+4) Docker
+5) BuildKite
+  a) Gonna substitute in GitLab, since that one is free and does the same damn thing
+6) Phabricator
+  a) Gonna use GitHub, since why not
+
+
+The plan:
+1) Make a super simple thing to "deploy"
+  a) Maybe Python Flask? Basically focusing on the infrastructure side of things
+    So not focusing on making my ToDoApp to be deployable...until it's ready.
+    So deploy something simple just to get experience.
+
+2) Make tests, and cool stuff
